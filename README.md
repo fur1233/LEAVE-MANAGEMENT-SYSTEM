@@ -32,6 +32,6 @@ A web-based database management tool to interact with the MySQL database.
 
 A big chunk of credit goes to https://www.youtube.com/@TutusFunny, without their video this project wouldn't be possible.
 
-Feel free to contribute to the project by submitting issues or pull requests. If you encounter any problems or have suggestions, please let us know by creating an issue. We appreciate your feedback!
+Feel free to contribute to the project by submitting issues or pull requests. If you encounter any problems or have suggestions, please let me know by creating an issue. I appreciate your feedback!
 
 Disclaimer: This project is created for educational purposes and may not cover all security aspects required for a production environment. Use it responsibly and adapt it as needed.
